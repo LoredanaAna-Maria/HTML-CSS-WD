@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(211, 90, 46);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: rgba(204, 50, 50, 0.582);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    color: rgb(184, 98, 144);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+color: maroon;
+}
+body {
+    background-color: rgb(204, 170, 170);
+}
